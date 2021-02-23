@@ -1,0 +1,1707 @@
+[
+  {
+    "selectedOffers": "Lease",
+    "accountingCost": 31198,
+    "advertisedPrice": 34699,
+    "zeroDownLeaseTotalPayments": 21890.16,
+    "financePayment": 541.65,
+    "modelId": 20201192,
+    "year": 2020,
+    "leaseVehicleSalesPrice": 34699,
+    "dealerPrice": 34699,
+    "financeDisclosure": "$2,000 down payment. 60 monthly payments of $17.63 per $1000 financed at 2.23% APR. Lease end termination fee, $495.",
+    "zeroDownLeaseVehicleSalesPrice": 34699,
+    "securityDeposit": 0,
+    "zeroDownLeaseMonthlyPayment": 608.06,
+    "zeroDownLeaseAcquisitionFee": 895,
+    "transmission": "Automatic",
+    "trim": "Premium",
+    "acquisitionFee": 895,
+    "monthlyPayment": 297,
+    "modelCode": "8VMBUG",
+    "financeMinFICO": 740,
+    "capCostIncludesFirstMonthPayment": false,
+    "model": "A3",
+    "vin": "WAUAUGFF4LA099432",
+    "totalLeaseCharge": 21154.56,
+    "zeroDownLeaseTerminationFee": 0,
+    "invoicePrice": 34699,
+    "totalDueAtSigning": 3886,
+    "vehicleType": "Sedan",
+    "capCostReduction": 2000,
+    "mileage": 10,
+    "minFICO": 740,
+    "zeroDownLeaseMilesPerYear": 7500,
+    "DASIncludesFirstMonthPayment": false,
+    "zeroDownLeaseTotalLeaseCharge": 21890.16,
+    "suggestedDealerContribution": 3341,
+    "vehicleCondition": "New",
+    "zeroDownLeaseMinFICO": 740,
+    "cylinders": 4,
+    "capCostIncludesAcqusitionFee": false,
+    "savingsOffMSRPTitle": "Save",
+    "aprLender": "Audi Financial Services",
+    "terminationFee": 495,
+    "purchaseRebate1Disclosure": "Must take delivery of new Audi by 2021-03-01.",
+    "aprMinFICO": 740,
+    "zeroDownLeaseResidualValue": 16218,
+    "aprPayment": 17.63,
+    "zeroDownLeaseCapCost": 36202.06,
+    "stockNumber": "A0099432D",
+    "zeroDownLeaseSecurityDeposit": 0,
+    "dateInStock": 1611100800000,
+    "dealerCode": "CALOSAUD",
+    "zeroDownLeaseTotalDueAtSigning": 0,
+    "finalPrice": 32699,
+    "zeroDownLeaseNumberOfPayments": 36,
+    "netAdjustedCapitalizedCost": 32699,
+    "savingsOffMSRP": 3341,
+    "zeroDownLeaseCentsPerMile": 0.15,
+    "driveTrain": "Front Wheel Drive",
+    "residualValue": 16218,
+    "purchaseRebate1": 2000,
+    "aprAmntFinanced": 1000,
+    "dealerDiscount": 1341,
+    "zeroDownLeaseNetAdjustedCapitalizedCost": 36202.06,
+    "financeRate": 2.23,
+    "totalDueAtSigningInclRebates": 3402.21,
+    "milesPerYear": 7500,
+    "msrp": 36040,
+    "zeroDownLeaseCapCostReduction": 0,
+    "centsPerMile": 0.25,
+    "amntFinanced": 30699,
+    "make": "Audi",
+    "expirationDate": 1614556800000,
+    "numberOfPayments": 36,
+    "financeDownPayment": 2000,
+    "zeroDownDisclosure": "36 monthly payments of $608.06 excluding tax. Total due at lease signing, $0.00. Cap cost, $36,202.06, which includes first month's payment. $895.00 acquisition fee. No security deposit required. Based on 7,500 miles per year, excess miles charged at $0.15 per mile. Lease end termination fee, $495.",
+    "exteriorColor": "Mythos Black Metallic",
+    "aprTerm": 60,
+    "capCost": 34699,
+    "zeroDownLeaseTotalDueAtSigningInclRebates": 0,
+    "financeTerm": 60,
+    "aprRate": 2.23,
+    "totalPayments": 18259.56,
+    "DASIncludesAcqusitionFee": false,
+    "savingsOffMSRPDescription": "Off MSRP",
+    "leaseDisclosure": "36 monthly payments of $507.21 excluding tax. Total due at lease signing including rebates, $3,402.21, which includes first month's payment and $895.00 acquisition fee. No security deposit required. Based on 7,500 miles per year, excess miles charged at $0.15 per mile. Lease end termination fee, $495.",
+    "purchaseRebate1Name": "Audi Credit",
+    "imageUrl": "https://alexia-assets-prd.constellationagency.com/jellybeans/2020_Audi_A3_Premium_1.png",
+    "conditionalRebate": [
+      ""
+    ],
+    "conditionalRebateDisclosure": [
+      ""
+    ],
+    "conditionalRebateName": [
+      ""
+    ],
+    "leaseRebate": [
+      "2250"
+    ],
+    "leaseRebateDisclosure": [
+      ""
+    ],
+    "leaseRebateName": [
+      "*AFS Lease Cash"
+    ],
+    "purchaseRebate": [
+      "2000.00"
+    ],
+    "purchaseRebateDisclosure": [
+      "Must take delivery of new Audi by 2021-03-01."
+    ],
+    "purchaseRebateName": [
+      "Audi Credit"
+    ],
+    "zeroDownLeaseRebate": [
+      ""
+    ],
+    "zeroDownLeaseRebateName": [
+      ""
+    ],
+    "zeroDownLeaseRebateDisclosure": [
+      ""
+    ],
+    "percentOffMSRP": "9%",
+    "dealerName": "Audi Downtown LA",
+    "finalPriceName": "DTLA Price",
+    "leaseRebate1": 2250,
+    "leaseRebate1Name": "*AFS Lease Cash",
+    "finalDisclosure": "Sedan 2020 Audi A3 Premium. Mythos Black Metallic. MSRP $36,040. LEASE: 36 monthly lease payments of $297, plus tax. Amount due at start, $3,886. Plus $2,250 *AFS Lease Cash plus first month's payment and $895 acquisition fee. $0 Security Deposit. Based on 7,500 miles per year, excess miles charged at $0.25 cents per mile. Lease end termination fee, $495. On approved credit. ALL OFFERS: Plus government fees and taxes, any finance charges, $85 dealer document processing charge, any electronic filing charge and any emission testing charge. Offer expires 03/01/2021."
+  },
+  {
+    "selectedOffers": "Lease",
+    "accountingCost": 41381,
+    "advertisedPrice": 41186,
+    "zeroDownLeaseTotalPayments": 0,
+    "financePayment": 678.54,
+    "modelId": 2021175,
+    "year": 2021,
+    "leaseVehicleSalesPrice": 41186,
+    "dealerPrice": 41186,
+    "financeDisclosure": "$2,000 down payment. 60 monthly payments of $17.31 per $1000 financed at 1.49% APR. Lease end termination fee, $495.",
+    "zeroDownLeaseVehicleSalesPrice": 41186,
+    "securityDeposit": 0,
+    "zeroDownLeaseMonthlyPayment": 0,
+    "zeroDownLeaseAcquisitionFee": 895,
+    "transmission": "Automatic",
+    "trim": "Premium",
+    "acquisitionFee": 895,
+    "monthlyPayment": 333,
+    "modelCode": "8WCBZY",
+    "financeMinFICO": 740,
+    "capCostIncludesFirstMonthPayment": false,
+    "model": "A4",
+    "vin": "WAUABAF43MN008291",
+    "totalLeaseCharge": 0,
+    "zeroDownLeaseTerminationFee": 0,
+    "invoicePrice": 41186,
+    "totalDueAtSigning": 4614,
+    "vehicleType": "Sedan",
+    "capCostReduction": 2000,
+    "mileage": 7,
+    "minFICO": 740,
+    "zeroDownLeaseMilesPerYear": 7500,
+    "DASIncludesFirstMonthPayment": false,
+    "zeroDownLeaseTotalLeaseCharge": 0,
+    "suggestedDealerContribution": 3629,
+    "vehicleCondition": "New",
+    "zeroDownLeaseMinFICO": 740,
+    "cylinders": 4,
+    "capCostIncludesAcqusitionFee": false,
+    "savingsOffMSRPTitle": "Save",
+    "aprLender": "Audi Financial Services",
+    "terminationFee": 495,
+    "purchaseRebate1Disclosure": "Must take delivery of new Audi by 2021-03-01.",
+    "aprMinFICO": 740,
+    "zeroDownLeaseResidualValue": 0,
+    "aprPayment": 17.31,
+    "zeroDownLeaseCapCost": 41186,
+    "stockNumber": "A1008291",
+    "zeroDownLeaseSecurityDeposit": 0,
+    "dateInStock": 1611792000000,
+    "dealerCode": "CALOSAUD",
+    "zeroDownLeaseTotalDueAtSigning": 0,
+    "finalPrice": 40436,
+    "zeroDownLeaseNumberOfPayments": 36,
+    "netAdjustedCapitalizedCost": 39186,
+    "savingsOffMSRP": 2379,
+    "zeroDownLeaseCentsPerMile": 0.15,
+    "driveTrain": "All Wheel Drive",
+    "residualValue": 0,
+    "purchaseRebate1": 750,
+    "aprAmntFinanced": 1000,
+    "dealerDiscount": 1629,
+    "zeroDownLeaseNetAdjustedCapitalizedCost": 1514916,
+    "financeRate": 1.49,
+    "totalDueAtSigningInclRebates": 0,
+    "milesPerYear": 7500,
+    "msrp": 42815,
+    "zeroDownLeaseCapCostReduction": -1473730,
+    "centsPerMile": 0.25,
+    "amntFinanced": 39186,
+    "make": "Audi",
+    "expirationDate": 1614556800000,
+    "numberOfPayments": 36,
+    "financeDownPayment": 2000,
+    "zeroDownDisclosure": "36 monthly payments of $0.00 excluding tax. Total due at lease signing, $0.00. Cap cost, $41,186.00, which includes first month's payment and $895.00 acquisition fee. Audi Credit $750.00. No security deposit required. Based on 7,500 miles per year, excess miles charged at $0.15 per mile. Lease end termination fee, $495.",
+    "exteriorColor": "Mythos Black Metallic",
+    "aprTerm": 60,
+    "capCost": 41186,
+    "zeroDownLeaseTotalDueAtSigningInclRebates": 0,
+    "financeTerm": 60,
+    "aprRate": 1.49,
+    "totalPayments": 0,
+    "DASIncludesAcqusitionFee": false,
+    "savingsOffMSRPDescription": "Off MSRP",
+    "leaseDisclosure": "36 monthly payments of $0.00 excluding tax. Total due at lease signing, $0.00. Cap cost, $41,186.00, which includes first month's payment and $895.00 acquisition fee. Audi Credit $750.00. No security deposit required. Based on 7,500 miles per year, excess miles charged at $0.15 per mile. Lease end termination fee, $495.",
+    "purchaseRebate1Name": "Audi Credit",
+    "imageUrl": "https://alexia-assets-prd.constellationagency.com/jellybeans/2021_Audi_A4_Premium 40 TFSI.png",
+    "conditionalRebate": [
+      ""
+    ],
+    "conditionalRebateDisclosure": [
+      ""
+    ],
+    "conditionalRebateName": [
+      ""
+    ],
+    "leaseRebate": [
+      "1250"
+    ],
+    "leaseRebateDisclosure": [
+      ""
+    ],
+    "leaseRebateName": [
+      "*AFS Lease Cash"
+    ],
+    "purchaseRebate": [
+      "750.00"
+    ],
+    "purchaseRebateDisclosure": [
+      "Must take delivery of new Audi by 2021-03-01."
+    ],
+    "purchaseRebateName": [
+      "Audi Credit"
+    ],
+    "zeroDownLeaseRebate": [
+      "750.00"
+    ],
+    "zeroDownLeaseRebateName": [
+      "Audi Credit"
+    ],
+    "zeroDownLeaseRebateDisclosure": [
+      "Program eligibility based on credit approval. Not all customers will qualify. Offer requires financing with Audi Financial Services."
+    ],
+    "percentOffMSRP": "5%",
+    "dealerName": "Audi Downtown LA",
+    "finalPriceName": "DTLA Price",
+    "leaseRebate1": 1250,
+    "leaseRebate1Name": "*AFS Lease Cash",
+    "finalDisclosure": "Sedan 2021 Audi A4 Premium. Mythos Black Metallic. MSRP $42,815. LEASE: 36 monthly lease payments of $333, plus tax. Amount due at start, $4,614. Plus $1,250 *AFS Lease Cash plus first month's payment and $895 acquisition fee. $0 Security Deposit. Based on 7,500 miles per year, excess miles charged at $0.25 cents per mile. Lease end termination fee, $495. On approved credit. ALL OFFERS: Plus government fees and taxes, any finance charges, $85 dealer document processing charge, any electronic filing charge and any emission testing charge. Offer expires 03/01/2021."
+  },
+  {
+    "selectedOffers": "Lease",
+    "accountingCost": 42148,
+    "advertisedPrice": 44454,
+    "zeroDownLeaseTotalPayments": 24450.48,
+    "financePayment": 749.06,
+    "modelId": 20203097,
+    "year": 2020,
+    "leaseVehicleSalesPrice": 44454,
+    "dealerPrice": 44454,
+    "financeDisclosure": "$2,000 down payment. 60 monthly payments of $17.63 per $1000 financed at 2.23% APR. Lease end termination fee, $495.",
+    "zeroDownLeaseVehicleSalesPrice": 44454,
+    "securityDeposit": 0,
+    "zeroDownLeaseMonthlyPayment": 679.18,
+    "zeroDownLeaseAcquisitionFee": 895,
+    "transmission": "7-Speed A/T",
+    "trim": "Premium",
+    "acquisitionFee": 895,
+    "monthlyPayment": 399,
+    "modelCode": "F5FBNY",
+    "financeMinFICO": 740,
+    "capCostIncludesFirstMonthPayment": false,
+    "model": "A5 Sportback",
+    "vin": "WAUANCF56LA019240",
+    "totalLeaseCharge": 23668.44,
+    "zeroDownLeaseTerminationFee": 0,
+    "invoicePrice": 44454,
+    "totalDueAtSigning": 5023,
+    "vehicleType": "Sedan",
+    "capCostReduction": 2000,
+    "mileage": 95,
+    "minFICO": 740,
+    "zeroDownLeaseMilesPerYear": 7500,
+    "DASIncludesFirstMonthPayment": false,
+    "zeroDownLeaseTotalLeaseCharge": 24450.48,
+    "suggestedDealerContribution": 3786,
+    "vehicleCondition": "New",
+    "zeroDownLeaseMinFICO": 740,
+    "cylinders": 4,
+    "capCostIncludesAcqusitionFee": false,
+    "savingsOffMSRPTitle": "Save",
+    "aprLender": "Audi Financial Services",
+    "terminationFee": 495,
+    "purchaseRebate1Disclosure": "",
+    "aprMinFICO": 740,
+    "zeroDownLeaseResidualValue": 23582.4,
+    "aprPayment": 17.63,
+    "zeroDownLeaseCapCost": 46028.18,
+    "stockNumber": "A0019240",
+    "zeroDownLeaseSecurityDeposit": 0,
+    "dateInStock": 1596067200000,
+    "dealerCode": "CALOSAUD",
+    "zeroDownLeaseTotalDueAtSigning": 0,
+    "finalPrice": 44454,
+    "zeroDownLeaseNumberOfPayments": 36,
+    "netAdjustedCapitalizedCost": 42454,
+    "savingsOffMSRP": 1786,
+    "zeroDownLeaseCentsPerMile": 0.15,
+    "driveTrain": "All Wheel Drive",
+    "residualValue": 23582.4,
+    "purchaseRebate1": "",
+    "aprAmntFinanced": 1000,
+    "dealerDiscount": 1786,
+    "zeroDownLeaseNetAdjustedCapitalizedCost": 46028.18,
+    "financeRate": 2.23,
+    "totalDueAtSigningInclRebates": 3472.04,
+    "milesPerYear": 7500,
+    "msrp": 46240,
+    "zeroDownLeaseCapCostReduction": 0,
+    "centsPerMile": 0.25,
+    "amntFinanced": 42454,
+    "make": "Audi",
+    "expirationDate": 1614556800000,
+    "numberOfPayments": 36,
+    "financeDownPayment": 2000,
+    "zeroDownDisclosure": "36 monthly payments of $679.18 excluding tax. Total due at lease signing, $0.00. Cap cost, $46,028.18, which includes first month's payment. $895.00 acquisition fee. No security deposit required. Based on 7,500 miles per year, excess miles charged at $0.15 per mile. Lease end termination fee, $495.",
+    "exteriorColor": "Manhattan Gray Metallic",
+    "aprTerm": 60,
+    "capCost": 44454,
+    "zeroDownLeaseTotalDueAtSigningInclRebates": 0,
+    "financeTerm": 60,
+    "aprRate": 2.23,
+    "totalPayments": 20773.44,
+    "DASIncludesAcqusitionFee": false,
+    "savingsOffMSRPDescription": "Off MSRP",
+    "leaseDisclosure": "36 monthly payments of $577.04 excluding tax. Total due at lease signing including rebates, $3,472.04, which includes first month's payment and $895.00 acquisition fee. No security deposit required. Based on 7,500 miles per year, excess miles charged at $0.15 per mile. Lease end termination fee, $495.",
+    "purchaseRebate1Name": "",
+    "imageUrl": "https://alexia-assets-prd.constellationagency.com/jellybeans/2020_Audi_A5 Sportback_Premium.png",
+    "conditionalRebate": [
+      ""
+    ],
+    "conditionalRebateDisclosure": [
+      ""
+    ],
+    "conditionalRebateName": [
+      ""
+    ],
+    "leaseRebate": [
+      ""
+    ],
+    "leaseRebateDisclosure": [
+      ""
+    ],
+    "leaseRebateName": [
+      ""
+    ],
+    "purchaseRebate": [
+      ""
+    ],
+    "purchaseRebateDisclosure": [
+      ""
+    ],
+    "purchaseRebateName": [
+      ""
+    ],
+    "zeroDownLeaseRebate": [
+      ""
+    ],
+    "zeroDownLeaseRebateName": [
+      ""
+    ],
+    "zeroDownLeaseRebateDisclosure": [
+      ""
+    ],
+    "percentOffMSRP": "3%",
+    "dealerName": "Audi Downtown LA",
+    "finalPriceName": "DTLA Price",
+    "leaseRebate1": "",
+    "leaseRebate1Name": "",
+    "finalDisclosure": "Sedan 2020 Audi A5 Sportback Premium. Manhattan Gray Metallic. MSRP $46,240. LEASE: 36 monthly lease payments of $399, plus tax. Amount due at start, $5,023. plus first month's payment and $895 acquisition fee. $0 Security Deposit. Based on 7,500 miles per year, excess miles charged at $0.25 cents per mile. Lease end termination fee, $495. On approved credit. ALL OFFERS: Plus government fees and taxes, any finance charges, $85 dealer document processing charge, any electronic filing charge and any emission testing charge. Offer expires 03/01/2021."
+  },
+  {
+    "selectedOffers": "Lease",
+    "accountingCost": 55926,
+    "advertisedPrice": 55731,
+    "zeroDownLeaseTotalPayments": 0,
+    "financePayment": 930.4,
+    "modelId": 2021170,
+    "year": 2021,
+    "leaseVehicleSalesPrice": 55731,
+    "dealerPrice": 55731,
+    "financeDisclosure": "$2,000 down payment. 60 monthly payments of $17.31 per $1000 financed at 1.49% APR. Lease end termination fee, $495.",
+    "zeroDownLeaseVehicleSalesPrice": 55731,
+    "securityDeposit": 0,
+    "zeroDownLeaseMonthlyPayment": 0,
+    "zeroDownLeaseAcquisitionFee": 895,
+    "transmission": "Automatic",
+    "trim": "Premium",
+    "acquisitionFee": 895,
+    "monthlyPayment": 474,
+    "modelCode": "4A2B8Y",
+    "financeMinFICO": 740,
+    "capCostIncludesFirstMonthPayment": false,
+    "model": "A6",
+    "vin": "WAUD8AF26MN031025",
+    "totalLeaseCharge": 0,
+    "zeroDownLeaseTerminationFee": 0,
+    "invoicePrice": 55731,
+    "totalDueAtSigning": 6278,
+    "vehicleType": "Sedan",
+    "capCostReduction": 2000,
+    "mileage": 9,
+    "minFICO": 740,
+    "zeroDownLeaseMilesPerYear": 7500,
+    "DASIncludesFirstMonthPayment": false,
+    "zeroDownLeaseTotalLeaseCharge": 0,
+    "suggestedDealerContribution": 4309,
+    "vehicleCondition": "New",
+    "zeroDownLeaseMinFICO": 740,
+    "cylinders": 4,
+    "capCostIncludesAcqusitionFee": false,
+    "savingsOffMSRPTitle": "Save",
+    "aprLender": "Audi Financial Services",
+    "terminationFee": 495,
+    "purchaseRebate1Disclosure": "Must take delivery of new Audi by 2021-03-01.",
+    "aprMinFICO": 740,
+    "zeroDownLeaseResidualValue": 0,
+    "aprPayment": 17.31,
+    "zeroDownLeaseCapCost": 55731,
+    "stockNumber": "A1031025",
+    "zeroDownLeaseSecurityDeposit": 0,
+    "dateInStock": 1608768000000,
+    "dealerCode": "CALOSAUD",
+    "zeroDownLeaseTotalDueAtSigning": 0,
+    "finalPrice": 54231,
+    "zeroDownLeaseNumberOfPayments": 36,
+    "netAdjustedCapitalizedCost": 53731,
+    "savingsOffMSRP": 3809,
+    "zeroDownLeaseCentsPerMile": 0.15,
+    "driveTrain": "All Wheel Drive",
+    "residualValue": 0,
+    "purchaseRebate1": 1500,
+    "aprAmntFinanced": 1000,
+    "dealerDiscount": 2309,
+    "zeroDownLeaseNetAdjustedCapitalizedCost": 2038536,
+    "financeRate": 1.49,
+    "totalDueAtSigningInclRebates": 0,
+    "milesPerYear": 7500,
+    "msrp": 58040,
+    "zeroDownLeaseCapCostReduction": -1982805,
+    "centsPerMile": 0.25,
+    "amntFinanced": 53731,
+    "make": "Audi",
+    "expirationDate": 1614556800000,
+    "numberOfPayments": 36,
+    "financeDownPayment": 2000,
+    "zeroDownDisclosure": "36 monthly payments of $0.00 excluding tax. Total due at lease signing, $0.00. Cap cost, $55,731.00, which includes first month's payment and $895.00 acquisition fee. Audi Credit $1,500.00. No security deposit required. Based on 7,500 miles per year, excess miles charged at $0.15 per mile. Lease end termination fee, $495.",
+    "exteriorColor": "Firmament Blue Metallic",
+    "aprTerm": 60,
+    "capCost": 55731,
+    "zeroDownLeaseTotalDueAtSigningInclRebates": 0,
+    "financeTerm": 60,
+    "aprRate": 1.49,
+    "totalPayments": 0,
+    "DASIncludesAcqusitionFee": false,
+    "savingsOffMSRPDescription": "Off MSRP",
+    "leaseDisclosure": "36 monthly payments of $0.00 excluding tax. Total due at lease signing, $0.00. Cap cost, $55,731.00, which includes first month's payment and $895.00 acquisition fee. Audi Credit $1,500.00. No security deposit required. Based on 7,500 miles per year, excess miles charged at $0.15 per mile. Lease end termination fee, $495.",
+    "purchaseRebate1Name": "Audi Credit",
+    "imageUrl": "https://alexia-assets-prd.constellationagency.com/jellybeans/2021_Audi_A6_Premium Plus 55 TFSI.png",
+    "conditionalRebate": [
+      ""
+    ],
+    "conditionalRebateDisclosure": [
+      ""
+    ],
+    "conditionalRebateName": [
+      ""
+    ],
+    "leaseRebate": [
+      "2500"
+    ],
+    "leaseRebateDisclosure": [
+      ""
+    ],
+    "leaseRebateName": [
+      "*AFS Lease Cash"
+    ],
+    "purchaseRebate": [
+      "1500.00"
+    ],
+    "purchaseRebateDisclosure": [
+      "Must take delivery of new Audi by 2021-03-01."
+    ],
+    "purchaseRebateName": [
+      "Audi Credit"
+    ],
+    "zeroDownLeaseRebate": [
+      "1500.00"
+    ],
+    "zeroDownLeaseRebateName": [
+      "Audi Credit"
+    ],
+    "zeroDownLeaseRebateDisclosure": [
+      "Program eligibility based on credit approval. Not all customers will qualify. Offer requires financing with Audi Financial Services."
+    ],
+    "percentOffMSRP": "6%",
+    "dealerName": "Audi Downtown LA",
+    "finalPriceName": "DTLA Price",
+    "leaseRebate1": 2500,
+    "leaseRebate1Name": "*AFS Lease Cash",
+    "finalDisclosure": "Sedan 2021 Audi A6 Premium. Firmament Blue Metallic. MSRP $58,040. LEASE: 36 monthly lease payments of $474, plus tax. Amount due at start, $6,278. Plus $2,500 *AFS Lease Cash plus first month's payment and $895 acquisition fee. $0 Security Deposit. Based on 7,500 miles per year, excess miles charged at $0.25 cents per mile. Lease end termination fee, $495. On approved credit. ALL OFFERS: Plus government fees and taxes, any finance charges, $85 dealer document processing charge, any electronic filing charge and any emission testing charge. Offer expires 03/01/2021."
+  },
+  {
+    "selectedOffers": "Lease",
+    "accountingCost": 74714,
+    "advertisedPrice": 74714,
+    "zeroDownLeaseTotalPayments": 0,
+    "financePayment": 1282.97,
+    "modelId": 20212370,
+    "year": 2021,
+    "leaseVehicleSalesPrice": 74714,
+    "dealerPrice": 74714,
+    "financeDisclosure": "$2,000 down payment. 60 monthly payments of $17.63 per $1000 financed at 2.23% APR. Lease end termination fee, $495.",
+    "zeroDownLeaseVehicleSalesPrice": 74714,
+    "securityDeposit": 0,
+    "zeroDownLeaseMonthlyPayment": 0,
+    "zeroDownLeaseAcquisitionFee": 895,
+    "transmission": "Automatic",
+    "trim": "Premium Plus",
+    "acquisitionFee": 895,
+    "monthlyPayment": 729,
+    "modelCode": "4KA02Y",
+    "financeMinFICO": 740,
+    "capCostIncludesFirstMonthPayment": false,
+    "model": "A7",
+    "vin": "WAUU2AF29MN029349",
+    "totalLeaseCharge": 0,
+    "zeroDownLeaseTerminationFee": 0,
+    "invoicePrice": 74714,
+    "totalDueAtSigning": 8528,
+    "vehicleType": "Sedan",
+    "capCostReduction": 0,
+    "mileage": 33,
+    "minFICO": 740,
+    "zeroDownLeaseMilesPerYear": 7500,
+    "DASIncludesFirstMonthPayment": false,
+    "zeroDownLeaseTotalLeaseCharge": 0,
+    "suggestedDealerContribution": 77990,
+    "vehicleCondition": "New",
+    "zeroDownLeaseMinFICO": 740,
+    "cylinders": "",
+    "capCostIncludesAcqusitionFee": true,
+    "savingsOffMSRPTitle": "Save",
+    "aprLender": "Audi Financial Services",
+    "terminationFee": 495,
+    "purchaseRebate1Disclosure": "",
+    "aprMinFICO": 740,
+    "zeroDownLeaseResidualValue": 0,
+    "aprPayment": 17.63,
+    "zeroDownLeaseCapCost": 0,
+    "stockNumber": "A1029349SL",
+    "zeroDownLeaseSecurityDeposit": 0,
+    "dateInStock": 1609200000000,
+    "dealerCode": "CALOSAUD",
+    "zeroDownLeaseTotalDueAtSigning": 0,
+    "finalPrice": 74714,
+    "zeroDownLeaseNumberOfPayments": 36,
+    "netAdjustedCapitalizedCost": 0,
+    "savingsOffMSRP": 3276,
+    "zeroDownLeaseCentsPerMile": 0,
+    "driveTrain": "All Wheel Drive",
+    "residualValue": 0,
+    "purchaseRebate1": "",
+    "aprAmntFinanced": 1000,
+    "dealerDiscount": 3276,
+    "zeroDownLeaseNetAdjustedCapitalizedCost": 0,
+    "financeRate": 2.23,
+    "totalDueAtSigningInclRebates": 0,
+    "milesPerYear": 7500,
+    "msrp": 77990,
+    "zeroDownLeaseCapCostReduction": 0,
+    "centsPerMile": 0.25,
+    "amntFinanced": 72714,
+    "make": "Audi",
+    "expirationDate": 1614614400000,
+    "numberOfPayments": 36,
+    "financeDownPayment": 2000,
+    "zeroDownDisclosure": "36 monthly payments of $0.00 excluding tax. Total due at lease signing, $0.00. Cap cost, $0.00, which includes first month's payment. $895.00 acquisition fee. No security deposit required. Based on 7,500 miles per year, excess miles charged at $0.00 per mile. Lease end termination fee, $495.",
+    "exteriorColor": "Daytona Gray Pearl Effect",
+    "aprTerm": 60,
+    "capCost": 0,
+    "zeroDownLeaseTotalDueAtSigningInclRebates": 0,
+    "financeTerm": 60,
+    "aprRate": 2.23,
+    "totalPayments": 0,
+    "DASIncludesAcqusitionFee": true,
+    "savingsOffMSRPDescription": "Off MSRP",
+    "leaseDisclosure": "36 monthly payments of $0.00 excluding tax. Total due at lease signing, $0.00. Cap cost, $0.00, which includes first month's payment. $895.00 acquisition fee. No security deposit required. Based on 7,500 miles per year, excess miles charged at $0.00 per mile. Lease end termination fee, $495.",
+    "purchaseRebate1Name": "",
+    "imageUrl": "https://alexia-assets-prd.constellationagency.com/jellybeans/2021_Audi_A7_Premium Plus.png",
+    "conditionalRebate": [
+      ""
+    ],
+    "conditionalRebateDisclosure": [
+      ""
+    ],
+    "conditionalRebateName": [
+      ""
+    ],
+    "leaseRebate": [
+      ""
+    ],
+    "leaseRebateDisclosure": [
+      ""
+    ],
+    "leaseRebateName": [
+      ""
+    ],
+    "purchaseRebate": [
+      ""
+    ],
+    "purchaseRebateDisclosure": [
+      ""
+    ],
+    "purchaseRebateName": [
+      ""
+    ],
+    "zeroDownLeaseRebate": [
+      ""
+    ],
+    "zeroDownLeaseRebateName": [
+      ""
+    ],
+    "zeroDownLeaseRebateDisclosure": [
+      ""
+    ],
+    "percentOffMSRP": "4%",
+    "dealerName": "Audi Downtown LA",
+    "finalPriceName": "DTLA Price",
+    "leaseRebate1": "",
+    "leaseRebate1Name": "",
+    "finalDisclosure": "Sedan 2021 Audi A7 Premium Plus. Daytona Gray Pearl Effect. MSRP $77,990. LEASE: 36 monthly lease payments of $729, plus tax. Amount due at start, $8,528. plus first month's payment and $895 acquisition fee. $0 Security Deposit. Based on 7,500 miles per year, excess miles charged at $0.25 cents per mile. Lease end termination fee, $495. On approved credit. ALL OFFERS: Plus government fees and taxes, any finance charges, $85 dealer document processing charge, any electronic filing charge and any emission testing charge. Offer expires 03/01/2021."
+  },
+  {
+    "selectedOffers": "Lease",
+    "accountingCost": 74611,
+    "advertisedPrice": 89416,
+    "zeroDownLeaseTotalPayments": 57763.08,
+    "financePayment": 1542.37,
+    "modelId": 2020645,
+    "year": 2020,
+    "leaseVehicleSalesPrice": 89416,
+    "dealerPrice": 89416,
+    "financeDisclosure": "$2,000 down payment. 60 monthly payments of $17.63 per $1000 financed at 2.23% APR. Lease end termination fee, $495.",
+    "zeroDownLeaseVehicleSalesPrice": 89416,
+    "securityDeposit": 0,
+    "zeroDownLeaseMonthlyPayment": 1604.53,
+    "zeroDownLeaseAcquisitionFee": 895,
+    "transmission": "Automatic",
+    "trim": "",
+    "acquisitionFee": 895,
+    "monthlyPayment": 749,
+    "modelCode": "4N85DA",
+    "financeMinFICO": 740,
+    "capCostIncludesFirstMonthPayment": false,
+    "model": "A8 L",
+    "vin": "WAU8DAF82LN015095",
+    "totalLeaseCharge": 55954.32,
+    "zeroDownLeaseTerminationFee": 0,
+    "invoicePrice": 89416,
+    "totalDueAtSigning": 10084,
+    "vehicleType": "Sedan",
+    "capCostReduction": 2000,
+    "mileage": 12,
+    "minFICO": 740,
+    "zeroDownLeaseMilesPerYear": 7500,
+    "DASIncludesFirstMonthPayment": false,
+    "zeroDownLeaseTotalLeaseCharge": 57763.08,
+    "suggestedDealerContribution": 5939,
+    "vehicleCondition": "New",
+    "zeroDownLeaseMinFICO": 740,
+    "cylinders": 6,
+    "capCostIncludesAcqusitionFee": false,
+    "savingsOffMSRPTitle": "Save",
+    "aprLender": "Audi Financial Services",
+    "terminationFee": 495,
+    "purchaseRebate1Disclosure": "",
+    "aprMinFICO": 740,
+    "zeroDownLeaseResidualValue": 40142.65,
+    "aprPayment": 17.63,
+    "zeroDownLeaseCapCost": 91915.53,
+    "stockNumber": "A0015095",
+    "zeroDownLeaseSecurityDeposit": 0,
+    "dateInStock": 1595289600000,
+    "dealerCode": "CALOSAUD",
+    "zeroDownLeaseTotalDueAtSigning": 0,
+    "finalPrice": 89416,
+    "zeroDownLeaseNumberOfPayments": 36,
+    "netAdjustedCapitalizedCost": 87416,
+    "savingsOffMSRP": 3939,
+    "zeroDownLeaseCentsPerMile": 0.15,
+    "driveTrain": "All Wheel Drive",
+    "residualValue": 40142.65,
+    "purchaseRebate1": "",
+    "aprAmntFinanced": 1000,
+    "dealerDiscount": 3939,
+    "zeroDownLeaseNetAdjustedCapitalizedCost": 91915.53,
+    "financeRate": 2.23,
+    "totalDueAtSigningInclRebates": 4368.87,
+    "milesPerYear": 7500,
+    "msrp": 93355,
+    "zeroDownLeaseCapCostReduction": 0,
+    "centsPerMile": 0.35,
+    "amntFinanced": 87416,
+    "make": "Audi",
+    "expirationDate": 1614556800000,
+    "numberOfPayments": 36,
+    "financeDownPayment": 2000,
+    "zeroDownDisclosure": "36 monthly payments of $1,604.53 excluding tax. Total due at lease signing, $0.00. Cap cost, $91,915.53, which includes first month's payment. $895.00 acquisition fee. No security deposit required. Based on 7,500 miles per year, excess miles charged at $0.15 per mile. Lease end termination fee, $495.",
+    "exteriorColor": "Vesuvius Gray Metallic",
+    "aprTerm": 60,
+    "capCost": 89416,
+    "zeroDownLeaseTotalDueAtSigningInclRebates": 0,
+    "financeTerm": 60,
+    "aprRate": 2.23,
+    "totalPayments": 53059.32,
+    "DASIncludesAcqusitionFee": false,
+    "savingsOffMSRPDescription": "Off MSRP",
+    "leaseDisclosure": "36 monthly payments of $1,473.87 excluding tax. Total due at lease signing including rebates, $4,368.87, which includes first month's payment and $895.00 acquisition fee. No security deposit required. Based on 7,500 miles per year, excess miles charged at $0.15 per mile. Lease end termination fee, $495.",
+    "purchaseRebate1Name": "",
+    "imageUrl": "https://av2-ladtech-assets-prd.s3.amazonaws.com/offerList/uploads/2020_Audi_A8 L_undefined_1612397269113.png",
+    "conditionalRebate": [
+      ""
+    ],
+    "conditionalRebateDisclosure": [
+      ""
+    ],
+    "conditionalRebateName": [
+      ""
+    ],
+    "leaseRebate": [
+      ""
+    ],
+    "leaseRebateDisclosure": [
+      ""
+    ],
+    "leaseRebateName": [
+      ""
+    ],
+    "purchaseRebate": [
+      ""
+    ],
+    "purchaseRebateDisclosure": [
+      ""
+    ],
+    "purchaseRebateName": [
+      ""
+    ],
+    "zeroDownLeaseRebate": [
+      ""
+    ],
+    "zeroDownLeaseRebateName": [
+      ""
+    ],
+    "zeroDownLeaseRebateDisclosure": [
+      ""
+    ],
+    "percentOffMSRP": "4%",
+    "dealerName": "Audi Downtown LA",
+    "finalPriceName": "DTLA Price",
+    "leaseRebate1": "",
+    "leaseRebate1Name": "",
+    "finalDisclosure": "Sedan 2020 Audi A8 L Vesuvius Gray Metallic. MSRP $93,355. LEASE: 36 monthly lease payments of $749, plus tax. Amount due at start, $10,084. plus first month's payment and $895 acquisition fee. $0 Security Deposit. Based on 7,500 miles per year, excess miles charged at $0.35 cents per mile. Lease end termination fee, $495. On approved credit. ALL OFFERS: Plus government fees and taxes, any finance charges, $85 dealer document processing charge, any electronic filing charge and any emission testing charge. Offer expires 03/01/2021."
+  },
+  {
+    "selectedOffers": "Lease",
+    "accountingCost": 68572,
+    "advertisedPrice": 71310,
+    "zeroDownLeaseTotalPayments": 0,
+    "financePayment": 1171.16,
+    "modelId": 20213222,
+    "year": 2021,
+    "leaseVehicleSalesPrice": 68377,
+    "dealerPrice": 68377,
+    "financeDisclosure": "$2,000 down payment. 60 monthly payments of $17.63 per $1000 financed at 2.23% APR. Lease end termination fee, $495.",
+    "zeroDownLeaseVehicleSalesPrice": 68377,
+    "securityDeposit": 0,
+    "zeroDownLeaseMonthlyPayment": 0,
+    "zeroDownLeaseAcquisitionFee": 895,
+    "transmission": "1-Speed A/T",
+    "trim": "Premium",
+    "acquisitionFee": 895,
+    "monthlyPayment": 479,
+    "modelCode": "GENBAE",
+    "financeMinFICO": 740,
+    "capCostIncludesFirstMonthPayment": false,
+    "model": "e-tron",
+    "vin": "WA1AAAGE3MB016285",
+    "totalLeaseCharge": 0,
+    "zeroDownLeaseTerminationFee": 0,
+    "invoicePrice": 68377,
+    "totalDueAtSigning": 7131,
+    "vehicleType": "SUV",
+    "capCostReduction": 0,
+    "mileage": 8,
+    "minFICO": 740,
+    "zeroDownLeaseMilesPerYear": 7500,
+    "DASIncludesFirstMonthPayment": false,
+    "zeroDownLeaseTotalLeaseCharge": 0,
+    "suggestedDealerContribution": 71310,
+    "vehicleCondition": "New",
+    "zeroDownLeaseMinFICO": 740,
+    "cylinders": 0,
+    "capCostIncludesAcqusitionFee": true,
+    "savingsOffMSRPTitle": "Save",
+    "aprLender": "Audi Financial Services",
+    "terminationFee": 495,
+    "purchaseRebate1Disclosure": "",
+    "aprMinFICO": 740,
+    "zeroDownLeaseResidualValue": 0,
+    "aprPayment": 17.63,
+    "zeroDownLeaseCapCost": 0,
+    "stockNumber": "A1016285",
+    "zeroDownLeaseSecurityDeposit": 0,
+    "dateInStock": 1609718400000,
+    "dealerCode": "CALOSAUD",
+    "zeroDownLeaseTotalDueAtSigning": 0,
+    "finalPrice": 68377,
+    "zeroDownLeaseNumberOfPayments": 36,
+    "netAdjustedCapitalizedCost": 0,
+    "savingsOffMSRP": 2933,
+    "zeroDownLeaseCentsPerMile": 0,
+    "driveTrain": "All Wheel Drive",
+    "residualValue": 0,
+    "purchaseRebate1": "",
+    "aprAmntFinanced": 1000,
+    "dealerDiscount": 2933,
+    "zeroDownLeaseNetAdjustedCapitalizedCost": 0,
+    "financeRate": 2.23,
+    "totalDueAtSigningInclRebates": 0,
+    "milesPerYear": 7500,
+    "msrp": 71310,
+    "zeroDownLeaseCapCostReduction": 0,
+    "centsPerMile": 0.25,
+    "amntFinanced": 66377,
+    "make": "Audi",
+    "expirationDate": 1614614400000,
+    "numberOfPayments": 36,
+    "financeDownPayment": 2000,
+    "zeroDownDisclosure": "36 monthly payments of $0.00 excluding tax. Total due at lease signing, $0.00. Cap cost, $0.00, which includes first month's payment. $895.00 acquisition fee. No security deposit required. Based on 7,500 miles per year, excess miles charged at $0.00 per mile. Lease end termination fee, $495.",
+    "exteriorColor": "Brilliant Black",
+    "aprTerm": 60,
+    "capCost": 0,
+    "zeroDownLeaseTotalDueAtSigningInclRebates": 0,
+    "financeTerm": 60,
+    "aprRate": 2.23,
+    "totalPayments": 0,
+    "DASIncludesAcqusitionFee": true,
+    "savingsOffMSRPDescription": "Off MSRP",
+    "leaseDisclosure": "36 monthly payments of $0.00 excluding tax. Total due at lease signing, $0.00. Cap cost, $0.00, which includes first month's payment. $895.00 acquisition fee. No security deposit required. Based on 7,500 miles per year, excess miles charged at $0.00 per mile. Lease end termination fee, $495.",
+    "purchaseRebate1Name": "",
+    "imageUrl": "https://alexia-assets-prd.constellationagency.com/jellybeans/2021_Audi_e-tron_Premium.png",
+    "conditionalRebate": [
+      ""
+    ],
+    "conditionalRebateDisclosure": [
+      ""
+    ],
+    "conditionalRebateName": [
+      ""
+    ],
+    "leaseRebate": [
+      "7500",
+      "1500"
+    ],
+    "leaseRebateDisclosure": [
+      ""
+    ],
+    "leaseRebateName": [
+      "**BEV Credit",
+      "***Clean Air Credit"
+    ],
+    "purchaseRebate": [
+      ""
+    ],
+    "purchaseRebateDisclosure": [
+      ""
+    ],
+    "purchaseRebateName": [
+      ""
+    ],
+    "zeroDownLeaseRebate": [
+      ""
+    ],
+    "zeroDownLeaseRebateName": [
+      ""
+    ],
+    "zeroDownLeaseRebateDisclosure": [
+      ""
+    ],
+    "percentOffMSRP": "4%",
+    "dealerName": "Audi Downtown LA",
+    "finalPriceName": "DTLA Price",
+    "leaseRebate1": 7500,
+    "leaseRebate1Name": "**BEV Credit",
+    "finalDisclosure": "SUV 2021 Audi e-tron Premium. Brilliant Black. MSRP $71,310. LEASE: 36 monthly lease payments of $479, plus tax. Amount due at start, $7,131. Plus $7,500 **BEV Credit $1,500 ***Clean Air Credit plus first month's payment and $895 acquisition fee. $0 Security Deposit. Based on 7,500 miles per year, excess miles charged at $0.25 cents per mile. Lease end termination fee, $495. On approved credit. ALL OFFERS: Plus government fees and taxes, any finance charges, $85 dealer document processing charge, any electronic filing charge and any emission testing charge. Offer expires 03/01/2021."
+  },
+  {
+    "selectedOffers": "Lease",
+    "accountingCost": 38338,
+    "advertisedPrice": 38143,
+    "zeroDownLeaseTotalPayments": 0,
+    "financePayment": 625.85,
+    "modelId": 20212841,
+    "year": 2021,
+    "leaseVehicleSalesPrice": 38143,
+    "dealerPrice": 38143,
+    "financeDisclosure": "$2,000 down payment. 60 monthly payments of $17.31 per $1000 financed at 1.49% APR. Lease end termination fee, $495.",
+    "zeroDownLeaseVehicleSalesPrice": 38143,
+    "securityDeposit": 0,
+    "zeroDownLeaseMonthlyPayment": 0,
+    "zeroDownLeaseAcquisitionFee": 895,
+    "transmission": "Automatic",
+    "trim": "S line Premium",
+    "acquisitionFee": 895,
+    "monthlyPayment": 357,
+    "modelCode": "F3BCEA",
+    "financeMinFICO": 740,
+    "capCostIncludesFirstMonthPayment": false,
+    "model": "Q3",
+    "vin": "WA1DECF33M1036703",
+    "totalLeaseCharge": 0,
+    "zeroDownLeaseTerminationFee": 0,
+    "invoicePrice": 38143,
+    "totalDueAtSigning": 3966,
+    "vehicleType": "SUV",
+    "capCostReduction": 2000,
+    "mileage": 8,
+    "minFICO": 740,
+    "zeroDownLeaseMilesPerYear": 7500,
+    "DASIncludesFirstMonthPayment": false,
+    "zeroDownLeaseTotalLeaseCharge": 0,
+    "suggestedDealerContribution": 3522,
+    "vehicleCondition": "New",
+    "zeroDownLeaseMinFICO": 740,
+    "cylinders": 4,
+    "capCostIncludesAcqusitionFee": false,
+    "savingsOffMSRPTitle": "Save",
+    "aprLender": "Audi Financial Services",
+    "terminationFee": 495,
+    "purchaseRebate1Disclosure": "Must take delivery of new Audi by 2021-03-01.",
+    "aprMinFICO": 740,
+    "zeroDownLeaseResidualValue": 0,
+    "aprPayment": 17.31,
+    "zeroDownLeaseCapCost": 38143,
+    "stockNumber": "A1036703",
+    "zeroDownLeaseSecurityDeposit": 0,
+    "dateInStock": 1606521600000,
+    "dealerCode": "CALOSAUD",
+    "zeroDownLeaseTotalDueAtSigning": 0,
+    "finalPrice": 37393,
+    "zeroDownLeaseNumberOfPayments": 36,
+    "netAdjustedCapitalizedCost": 36143,
+    "savingsOffMSRP": 2272,
+    "zeroDownLeaseCentsPerMile": 0.15,
+    "driveTrain": "All Wheel Drive",
+    "residualValue": 0,
+    "purchaseRebate1": 750,
+    "aprAmntFinanced": 1000,
+    "dealerDiscount": 1522,
+    "zeroDownLeaseNetAdjustedCapitalizedCost": 1405368,
+    "financeRate": 1.49,
+    "totalDueAtSigningInclRebates": 0,
+    "milesPerYear": 7500,
+    "msrp": 39665,
+    "zeroDownLeaseCapCostReduction": -1367225,
+    "centsPerMile": 0.25,
+    "amntFinanced": 36143,
+    "make": "Audi",
+    "expirationDate": 1614556800000,
+    "numberOfPayments": 36,
+    "financeDownPayment": 2000,
+    "zeroDownDisclosure": "36 monthly payments of $0.00 excluding tax. Total due at lease signing, $0.00. Cap cost, $38,143.00, which includes first month's payment and $895.00 acquisition fee. Audi Credit $750.00. No security deposit required. Based on 7,500 miles per year, excess miles charged at $0.15 per mile. Lease end termination fee, $495.",
+    "exteriorColor": "Navarra Blue Metallic",
+    "aprTerm": 60,
+    "capCost": 38143,
+    "zeroDownLeaseTotalDueAtSigningInclRebates": 0,
+    "financeTerm": 60,
+    "aprRate": 1.49,
+    "totalPayments": 0,
+    "DASIncludesAcqusitionFee": false,
+    "savingsOffMSRPDescription": "Off MSRP",
+    "leaseDisclosure": "36 monthly payments of $0.00 excluding tax. Total due at lease signing, $0.00. Cap cost, $38,143.00, which includes first month's payment and $895.00 acquisition fee. Audi Credit $750.00. No security deposit required. Based on 7,500 miles per year, excess miles charged at $0.15 per mile. Lease end termination fee, $495.",
+    "purchaseRebate1Name": "Audi Credit",
+    "imageUrl": "https://alexia-assets-prd.constellationagency.com/jellybeans/2021_Audi_Q3_Premium 45 TFSI S line_1.png",
+    "conditionalRebate": [
+      ""
+    ],
+    "conditionalRebateDisclosure": [
+      ""
+    ],
+    "conditionalRebateName": [
+      ""
+    ],
+    "leaseRebate": [
+      ""
+    ],
+    "leaseRebateDisclosure": [
+      ""
+    ],
+    "leaseRebateName": [
+      ""
+    ],
+    "purchaseRebate": [
+      "750.00"
+    ],
+    "purchaseRebateDisclosure": [
+      "Must take delivery of new Audi by 2021-03-01."
+    ],
+    "purchaseRebateName": [
+      "Audi Credit"
+    ],
+    "zeroDownLeaseRebate": [
+      "750.00"
+    ],
+    "zeroDownLeaseRebateName": [
+      "Audi Credit"
+    ],
+    "zeroDownLeaseRebateDisclosure": [
+      "Program eligibility based on credit approval. Not all customers will qualify. Offer requires financing with Audi Financial Services."
+    ],
+    "percentOffMSRP": "5%",
+    "dealerName": "Audi Downtown LA",
+    "finalPriceName": "DTLA Price",
+    "leaseRebate1": "",
+    "leaseRebate1Name": "",
+    "finalDisclosure": "SUV 2021 Audi Q3 S line Premium. Navarra Blue Metallic. MSRP $39,665. LEASE: 36 monthly lease payments of $357, plus tax. Amount due at start, $3,966. plus first month's payment and $895 acquisition fee. $0 Security Deposit. Based on 7,500 miles per year, excess miles charged at $0.25 cents per mile. Lease end termination fee, $495. On approved credit. ALL OFFERS: Plus government fees and taxes, any finance charges, $85 dealer document processing charge, any electronic filing charge and any emission testing charge. Offer expires 03/01/2021."
+  },
+  {
+    "selectedOffers": "Lease",
+    "accountingCost": 42917,
+    "advertisedPrice": 42722,
+    "zeroDownLeaseTotalPayments": 0,
+    "financePayment": 705.14,
+    "modelId": 20212154,
+    "year": 2021,
+    "leaseVehicleSalesPrice": 42722,
+    "dealerPrice": 42722,
+    "financeDisclosure": "$2,000 down payment. 60 monthly payments of $17.31 per $1000 financed at 1.49% APR. Lease end termination fee, $495.",
+    "zeroDownLeaseVehicleSalesPrice": 42722,
+    "securityDeposit": 0,
+    "zeroDownLeaseMonthlyPayment": 0,
+    "zeroDownLeaseAcquisitionFee": 895,
+    "transmission": "Automatic",
+    "trim": "Premium",
+    "acquisitionFee": 895,
+    "monthlyPayment": 365,
+    "modelCode": "FYGBAY",
+    "financeMinFICO": 740,
+    "capCostIncludesFirstMonthPayment": false,
+    "model": "Q5",
+    "vin": "WA1AAAFY3M2010093",
+    "totalLeaseCharge": 0,
+    "zeroDownLeaseTerminationFee": 0,
+    "invoicePrice": 42722,
+    "totalDueAtSigning": 4804,
+    "vehicleType": "SUV",
+    "capCostReduction": 2000,
+    "mileage": 11,
+    "minFICO": 740,
+    "zeroDownLeaseMilesPerYear": 7500,
+    "DASIncludesFirstMonthPayment": false,
+    "zeroDownLeaseTotalLeaseCharge": 0,
+    "suggestedDealerContribution": 3673,
+    "vehicleCondition": "New",
+    "zeroDownLeaseMinFICO": 740,
+    "cylinders": 4,
+    "capCostIncludesAcqusitionFee": false,
+    "savingsOffMSRPTitle": "Save",
+    "aprLender": "Audi Financial Services",
+    "terminationFee": 495,
+    "purchaseRebate1Disclosure": "Must take delivery of new Audi by 2021-03-01.",
+    "aprMinFICO": 740,
+    "zeroDownLeaseResidualValue": 0,
+    "aprPayment": 17.31,
+    "zeroDownLeaseCapCost": 42722,
+    "stockNumber": "A1010093",
+    "zeroDownLeaseSecurityDeposit": 0,
+    "dateInStock": 1605139200000,
+    "dealerCode": "CALOSAUD",
+    "zeroDownLeaseTotalDueAtSigning": 0,
+    "finalPrice": 41972,
+    "zeroDownLeaseNumberOfPayments": 36,
+    "netAdjustedCapitalizedCost": 40722,
+    "savingsOffMSRP": 2423,
+    "zeroDownLeaseCentsPerMile": 0.15,
+    "driveTrain": "All Wheel Drive",
+    "residualValue": 0,
+    "purchaseRebate1": 750,
+    "aprAmntFinanced": 1000,
+    "dealerDiscount": 1673,
+    "zeroDownLeaseNetAdjustedCapitalizedCost": 1570212,
+    "financeRate": 1.49,
+    "totalDueAtSigningInclRebates": 0,
+    "milesPerYear": 7500,
+    "msrp": 44395,
+    "zeroDownLeaseCapCostReduction": -1527490,
+    "centsPerMile": 0.25,
+    "amntFinanced": 40722,
+    "make": "Audi",
+    "expirationDate": 1614556800000,
+    "numberOfPayments": 36,
+    "financeDownPayment": 2000,
+    "zeroDownDisclosure": "36 monthly payments of $0.00 excluding tax. Total due at lease signing, $0.00. Cap cost, $42,722.00, which includes first month's payment and $895.00 acquisition fee. Audi Credit $750.00. No security deposit required. Based on 7,500 miles per year, excess miles charged at $0.15 per mile. Lease end termination fee, $495.",
+    "exteriorColor": "Brilliant Black",
+    "aprTerm": 60,
+    "capCost": 42722,
+    "zeroDownLeaseTotalDueAtSigningInclRebates": 0,
+    "financeTerm": 60,
+    "aprRate": 1.49,
+    "totalPayments": 0,
+    "DASIncludesAcqusitionFee": false,
+    "savingsOffMSRPDescription": "Off MSRP",
+    "leaseDisclosure": "36 monthly payments of $0.00 excluding tax. Total due at lease signing, $0.00. Cap cost, $42,722.00, which includes first month's payment and $895.00 acquisition fee. Audi Credit $750.00. No security deposit required. Based on 7,500 miles per year, excess miles charged at $0.15 per mile. Lease end termination fee, $495.",
+    "purchaseRebate1Name": "Audi Credit",
+    "imageUrl": "https://alexia-assets-prd.constellationagency.com/jellybeans/2021_Audi_Q5_Premium 45 TFSI.png",
+    "conditionalRebate": [
+      ""
+    ],
+    "conditionalRebateDisclosure": [
+      ""
+    ],
+    "conditionalRebateName": [
+      ""
+    ],
+    "leaseRebate": [
+      "750.00"
+    ],
+    "leaseRebateDisclosure": [
+      ""
+    ],
+    "leaseRebateName": [
+      "*AFS Lease Cash"
+    ],
+    "purchaseRebate": [
+      "750.00"
+    ],
+    "purchaseRebateDisclosure": [
+      "Must take delivery of new Audi by 2021-03-01."
+    ],
+    "purchaseRebateName": [
+      "Audi Credit"
+    ],
+    "zeroDownLeaseRebate": [
+      "750.00"
+    ],
+    "zeroDownLeaseRebateName": [
+      "Audi Credit"
+    ],
+    "zeroDownLeaseRebateDisclosure": [
+      "Program eligibility based on credit approval. Not all customers will qualify. Offer requires financing with Audi Financial Services."
+    ],
+    "percentOffMSRP": "5%",
+    "dealerName": "Audi Downtown LA",
+    "finalPriceName": "DTLA Price",
+    "leaseRebate1": 750,
+    "leaseRebate1Name": "*AFS Lease Cash",
+    "finalDisclosure": "SUV 2021 Audi Q5 Premium. Brilliant Black. MSRP $44,395. LEASE: 36 monthly lease payments of $365, plus tax. Amount due at start, $4,804. Plus $750 *AFS Lease Cash plus first month's payment and $895 acquisition fee. $0 Security Deposit. Based on 7,500 miles per year, excess miles charged at $0.25 cents per mile. Lease end termination fee, $495. On approved credit. ALL OFFERS: Plus government fees and taxes, any finance charges, $85 dealer document processing charge, any electronic filing charge and any emission testing charge. Offer expires 03/01/2021."
+  },
+  {
+    "selectedOffers": "Lease, Zero Down Lease, Finance, Purchase($), APR",
+    "accountingCost": 58094,
+    "advertisedPrice": 57899,
+    "zeroDownLeaseTotalPayments": 0,
+    "financePayment": 967.94,
+    "modelId": 20211237,
+    "year": 2021,
+    "leaseVehicleSalesPrice": 57899,
+    "dealerPrice": 57899,
+    "financeDisclosure": "$2,000 down payment. 60 monthly payments of $17.31 per $1000 financed at 1.49% APR. Lease end termination fee, $495.",
+    "zeroDownLeaseVehicleSalesPrice": 57899,
+    "securityDeposit": 0,
+    "zeroDownLeaseMonthlyPayment": 0,
+    "zeroDownLeaseAcquisitionFee": 895,
+    "transmission": "Automatic",
+    "trim": "Premium",
+    "acquisitionFee": 895,
+    "monthlyPayment": 575,
+    "modelCode": "4MGAI1",
+    "financeMinFICO": 740,
+    "capCostIncludesFirstMonthPayment": false,
+    "model": "Q7",
+    "vin": "WA1AJAF71MD025624",
+    "totalLeaseCharge": 0,
+    "zeroDownLeaseTerminationFee": 0,
+    "invoicePrice": 57899,
+    "totalDueAtSigning": 6036,
+    "vehicleType": "SUV",
+    "capCostReduction": 2000,
+    "mileage": 7,
+    "minFICO": 740,
+    "zeroDownLeaseMilesPerYear": 7500,
+    "DASIncludesFirstMonthPayment": false,
+    "zeroDownLeaseTotalLeaseCharge": 0,
+    "suggestedDealerContribution": 4466,
+    "vehicleCondition": "New",
+    "zeroDownLeaseMinFICO": 740,
+    "cylinders": 4,
+    "capCostIncludesAcqusitionFee": false,
+    "savingsOffMSRPTitle": "Save",
+    "aprLender": "Audi Financial Services",
+    "terminationFee": 495,
+    "purchaseRebate1Disclosure": "Must take delivery of new Audi by 2021-03-01.",
+    "aprMinFICO": 740,
+    "zeroDownLeaseResidualValue": 0,
+    "aprPayment": 17.31,
+    "zeroDownLeaseCapCost": 57899,
+    "stockNumber": "A1025624",
+    "zeroDownLeaseSecurityDeposit": 0,
+    "dateInStock": 1611792000000,
+    "dealerCode": "CALOSAUD",
+    "zeroDownLeaseTotalDueAtSigning": 0,
+    "finalPrice": 56899,
+    "zeroDownLeaseNumberOfPayments": 36,
+    "netAdjustedCapitalizedCost": 55899,
+    "savingsOffMSRP": 3466,
+    "zeroDownLeaseCentsPerMile": 0.15,
+    "driveTrain": "All Wheel Drive",
+    "residualValue": 0,
+    "purchaseRebate1": 1000,
+    "aprAmntFinanced": 1000,
+    "dealerDiscount": 2466,
+    "zeroDownLeaseNetAdjustedCapitalizedCost": 2116584,
+    "financeRate": 1.49,
+    "totalDueAtSigningInclRebates": 0,
+    "milesPerYear": 7500,
+    "msrp": 60365,
+    "zeroDownLeaseCapCostReduction": -2058685,
+    "centsPerMile": 0.25,
+    "amntFinanced": 55899,
+    "make": "Audi",
+    "expirationDate": 1614556800000,
+    "numberOfPayments": 36,
+    "financeDownPayment": 2000,
+    "zeroDownDisclosure": "36 monthly payments of $0.00 excluding tax. Total due at lease signing, $0.00. Cap cost, $57,899.00, which includes first month's payment and $895.00 acquisition fee. Audi Credit $1,000.00. No security deposit required. Based on 7,500 miles per year, excess miles charged at $0.15 per mile. Lease end termination fee, $495.",
+    "exteriorColor": "Glacier White Metallic",
+    "aprTerm": 60,
+    "capCost": 57899,
+    "zeroDownLeaseTotalDueAtSigningInclRebates": 0,
+    "financeTerm": 60,
+    "aprRate": 1.49,
+    "totalPayments": 0,
+    "DASIncludesAcqusitionFee": false,
+    "savingsOffMSRPDescription": "Off MSRP",
+    "leaseDisclosure": "36 monthly payments of $0.00 excluding tax. Total due at lease signing, $0.00. Cap cost, $57,899.00, which includes first month's payment and $895.00 acquisition fee. Audi Credit $1,000.00. No security deposit required. Based on 7,500 miles per year, excess miles charged at $0.15 per mile. Lease end termination fee, $495.",
+    "purchaseRebate1Name": "Audi Credit",
+    "imageUrl": "https://alexia-assets-prd.constellationagency.com/jellybeans/2021_Audi_Q7_Premium 45 TFSI.png",
+    "conditionalRebate": [
+      ""
+    ],
+    "conditionalRebateDisclosure": [
+      ""
+    ],
+    "conditionalRebateName": [
+      ""
+    ],
+    "leaseRebate": [
+      ""
+    ],
+    "leaseRebateDisclosure": [
+      ""
+    ],
+    "leaseRebateName": [
+      ""
+    ],
+    "purchaseRebate": [
+      "1000.00"
+    ],
+    "purchaseRebateDisclosure": [
+      "Must take delivery of new Audi by 2021-03-01."
+    ],
+    "purchaseRebateName": [
+      "Audi Credit"
+    ],
+    "zeroDownLeaseRebate": [
+      "1000.00"
+    ],
+    "zeroDownLeaseRebateName": [
+      "Audi Credit"
+    ],
+    "zeroDownLeaseRebateDisclosure": [
+      "Program eligibility based on credit approval. Not all customers will qualify. Offer requires financing with Audi Financial Services."
+    ],
+    "percentOffMSRP": "5%",
+    "dealerName": "Audi Downtown LA",
+    "finalPriceName": "DTLA Price",
+    "leaseRebate1": "",
+    "leaseRebate1Name": "",
+    "finalDisclosure": "SUV 2021 Audi Q7 Premium. Glacier White Metallic. MSRP $60,365. LEASE: 36 monthly lease payments of $575, plus tax. Amount due at start, $6,036. plus first month's payment and $895 acquisition fee. $0 Security Deposit. Based on 7,500 miles per year, excess miles charged at $0.25 cents per mile. Lease end termination fee, $495. On approved credit. ZERO-DOWN LEASE: 36 monthly lease payments of $0 plus tax. Total due at lease signing after any rebates, $0. $1,000 Audi Credit (Program eligibility based on credit approval. Not all customers will qualify. Offer requires financing with Audi Financial Services.). Total including rebates, 0. Cap cost, $57,899, which includes first month's payment and $895 acquisition fee. $0 Security Deposit. Based on 7,500 miles per year, excess miles charged at $0.15 cents per mile. Lease end termination fee, $0. On approved credit. FINANCE: Down payment, $2,000. 1.49% APR. Amount financed, $55,899. Min FICO 740. On approved credit. APR: For example, with down payment acceptable to lender, 60 monthly payments of $17.31 per $1,000 financed at 1.49% APR. On approved credit. PURCHASE: Dealer discount, $2,466. Dealer price, $57,899. $1,000 Audi Credit (Must take delivery of new Audi by 2021-03-01.). DTLA Price, $56,899. ALL OFFERS: Plus government fees and taxes, any finance charges, $85 dealer document processing charge, any electronic filing charge and any emission testing charge. Offer expires 03/01/2021."
+  },
+  {
+    "selectedOffers": "Lease",
+    "accountingCost": 69705,
+    "advertisedPrice": 69510,
+    "zeroDownLeaseTotalPayments": 34118.35,
+    "financePayment": 1183.94,
+    "modelId": 20203213,
+    "year": 2020,
+    "leaseVehicleSalesPrice": 69510,
+    "dealerPrice": 69510,
+    "financeDisclosure": "$2,000 down payment. 60 monthly payments of $17.52 per $1000 financed at 1.99% APR.",
+    "zeroDownLeaseVehicleSalesPrice": 69510,
+    "securityDeposit": 0,
+    "zeroDownLeaseMonthlyPayment": 974.81,
+    "zeroDownLeaseAcquisitionFee": 895,
+    "transmission": "Automatic",
+    "trim": "55 Premium",
+    "acquisitionFee": 895,
+    "monthlyPayment": 629,
+    "modelCode": "4MN5X2",
+    "financeMinFICO": 740,
+    "capCostIncludesFirstMonthPayment": false,
+    "model": "Q8",
+    "vin": "WA1AVAF16LD025889",
+    "totalLeaseCharge": 33969.48,
+    "zeroDownLeaseTerminationFee": 0,
+    "invoicePrice": 69510,
+    "totalDueAtSigning": 7879,
+    "vehicleType": "SUV",
+    "capCostReduction": 2000,
+    "mileage": 4,
+    "minFICO": 740,
+    "zeroDownLeaseMilesPerYear": 7500,
+    "DASIncludesFirstMonthPayment": false,
+    "zeroDownLeaseTotalLeaseCharge": 34118.35,
+    "suggestedDealerContribution": 4990,
+    "vehicleCondition": "New",
+    "zeroDownLeaseMinFICO": 740,
+    "cylinders": 6,
+    "capCostIncludesAcqusitionFee": false,
+    "savingsOffMSRPTitle": "Save",
+    "aprLender": "Audi Financial Services",
+    "terminationFee": 495,
+    "purchaseRebate1Disclosure": "",
+    "aprMinFICO": 740,
+    "zeroDownLeaseResidualValue": 40600,
+    "aprPayment": 17.52,
+    "zeroDownLeaseCapCost": 71379.81,
+    "stockNumber": "A0025889",
+    "zeroDownLeaseSecurityDeposit": 0,
+    "dateInStock": 1596067200000,
+    "dealerCode": "CALOSAUD",
+    "zeroDownLeaseTotalDueAtSigning": 0,
+    "finalPrice": 69510,
+    "zeroDownLeaseNumberOfPayments": 36,
+    "netAdjustedCapitalizedCost": 67510,
+    "savingsOffMSRP": 2990,
+    "zeroDownLeaseCentsPerMile": 0.15,
+    "driveTrain": "AWD",
+    "residualValue": 40600,
+    "purchaseRebate1": "",
+    "aprAmntFinanced": "1,000",
+    "dealerDiscount": 2990,
+    "zeroDownLeaseNetAdjustedCapitalizedCost": 71379.81,
+    "financeRate": 1.99,
+    "totalDueAtSigningInclRebates": 3758,
+    "milesPerYear": 7500,
+    "msrp": 72500,
+    "zeroDownLeaseCapCostReduction": 0,
+    "centsPerMile": 0.25,
+    "amntFinanced": 67510,
+    "make": "Audi",
+    "expirationDate": 1614614400000,
+    "numberOfPayments": 36,
+    "financeDownPayment": 2000,
+    "zeroDownDisclosure": "36 monthly payments of $974.81 excluding tax. Total due at lease signing, $0.00. Cap cost, $71,379.81, which includes first month's payment. $895.00 acquisition fee. No security deposit required. Based on 7,500 miles per year, excess miles charged at $0.15 per mile.",
+    "exteriorColor": "Orca Black Metallic",
+    "aprTerm": 60,
+    "capCost": 69510,
+    "zeroDownLeaseTotalDueAtSigningInclRebates": 0,
+    "financeTerm": 60,
+    "aprRate": 1.99,
+    "totalPayments": 31074.48,
+    "DASIncludesAcqusitionFee": false,
+    "savingsOffMSRPDescription": "Off MSRP",
+    "leaseDisclosure": "36 monthly payments of $863.18 excluding tax. Total due at lease signing including rebates, $3,758.18, which includes first month's payment and $895.00 acquisition fee. No security deposit required. Based on 7,500 miles per year, excess miles charged at $0.15 per mile.",
+    "purchaseRebate1Name": "",
+    "imageUrl": "https://alexia-assets-prd.constellationagency.com/jellybeans/2020_Audi_Q8_55 Premium.png",
+    "conditionalRebate": [
+      ""
+    ],
+    "conditionalRebateDisclosure": [
+      ""
+    ],
+    "conditionalRebateName": [
+      ""
+    ],
+    "leaseRebate": [
+      ""
+    ],
+    "leaseRebateDisclosure": [
+      ""
+    ],
+    "leaseRebateName": [
+      ""
+    ],
+    "purchaseRebate": [
+      ""
+    ],
+    "purchaseRebateDisclosure": [
+      ""
+    ],
+    "purchaseRebateName": [
+      ""
+    ],
+    "zeroDownLeaseRebate": [
+      ""
+    ],
+    "zeroDownLeaseRebateName": [
+      ""
+    ],
+    "zeroDownLeaseRebateDisclosure": [
+      ""
+    ],
+    "percentOffMSRP": "4%",
+    "dealerName": "Audi Downtown LA",
+    "finalPriceName": "DTLA Price",
+    "leaseRebate1": "",
+    "leaseRebate1Name": "",
+    "finalDisclosure": "SUV 2020 Audi Q8 55 Premium. Orca Black Metallic. MSRP $72,500. LEASE: 36 monthly lease payments of $629, plus tax. Amount due at start, $7,879. plus first month's payment and $895 acquisition fee. $0 Security Deposit. Based on 7,500 miles per year, excess miles charged at $0.25 cents per mile. Lease end termination fee, $495. On approved credit. ALL OFFERS: Plus government fees and taxes, any finance charges, $85 dealer document processing charge, any electronic filing charge and any emission testing charge. Offer expires 03/01/2021."
+  },
+  {
+    "selectedOffers": "Lease",
+    "accountingCost": 55950,
+    "advertisedPrice": 58090,
+    "zeroDownLeaseTotalPayments": 0,
+    "financePayment": 930.82,
+    "modelId": 20212728,
+    "year": 2021,
+    "leaseVehicleSalesPrice": 55755,
+    "dealerPrice": 55755,
+    "financeDisclosure": "$2,000 down payment. 60 monthly payments of $17.31 per $1000 financed at 1.49% APR. Lease end termination fee, $495.",
+    "zeroDownLeaseVehicleSalesPrice": 55755,
+    "securityDeposit": 0,
+    "zeroDownLeaseMonthlyPayment": 0,
+    "zeroDownLeaseAcquisitionFee": 895,
+    "transmission": "Automatic",
+    "trim": "Premium",
+    "acquisitionFee": 895,
+    "monthlyPayment": 427,
+    "modelCode": "FYGS4A",
+    "financeMinFICO": 740,
+    "capCostIncludesFirstMonthPayment": false,
+    "model": "SQ5",
+    "vin": "WA1A4AFY0M2035153",
+    "totalLeaseCharge": 0,
+    "zeroDownLeaseTerminationFee": 0,
+    "invoicePrice": 55755,
+    "totalDueAtSigning": 5809,
+    "vehicleType": "SUV",
+    "capCostReduction": 2000,
+    "mileage": 9,
+    "minFICO": 740,
+    "zeroDownLeaseMilesPerYear": 7500,
+    "DASIncludesFirstMonthPayment": false,
+    "zeroDownLeaseTotalLeaseCharge": 0,
+    "suggestedDealerContribution": 4335,
+    "vehicleCondition": "New",
+    "zeroDownLeaseMinFICO": 740,
+    "cylinders": 6,
+    "capCostIncludesAcqusitionFee": false,
+    "savingsOffMSRPTitle": "Save",
+    "aprLender": "Audi Financial Services",
+    "terminationFee": 495,
+    "purchaseRebate1Disclosure": "Must take delivery of new Audi by 2021-03-01.",
+    "aprMinFICO": 740,
+    "zeroDownLeaseResidualValue": 0,
+    "aprPayment": 17.31,
+    "zeroDownLeaseCapCost": 55755,
+    "stockNumber": "A1035153",
+    "zeroDownLeaseSecurityDeposit": 0,
+    "dateInStock": 1608768000000,
+    "dealerCode": "CALOSAUD",
+    "zeroDownLeaseTotalDueAtSigning": 0,
+    "finalPrice": 55005,
+    "zeroDownLeaseNumberOfPayments": 36,
+    "netAdjustedCapitalizedCost": 53755,
+    "savingsOffMSRP": 3085,
+    "zeroDownLeaseCentsPerMile": 0.15,
+    "driveTrain": "All Wheel Drive",
+    "residualValue": 0,
+    "purchaseRebate1": 750,
+    "aprAmntFinanced": 1000,
+    "dealerDiscount": 2335,
+    "zeroDownLeaseNetAdjustedCapitalizedCost": 2039400,
+    "financeRate": 1.49,
+    "totalDueAtSigningInclRebates": 0,
+    "milesPerYear": 7500,
+    "msrp": 58090,
+    "zeroDownLeaseCapCostReduction": -1983645,
+    "centsPerMile": 0.25,
+    "amntFinanced": 53755,
+    "make": "Audi",
+    "expirationDate": 1614556800000,
+    "numberOfPayments": 36,
+    "financeDownPayment": 2000,
+    "zeroDownDisclosure": "36 monthly payments of $0.00 excluding tax. Total due at lease signing, $0.00. Cap cost, $55,755.00, which includes first month's payment and $895.00 acquisition fee. Audi Credit $750.00. No security deposit required. Based on 7,500 miles per year, excess miles charged at $0.15 per mile. Lease end termination fee, $495.",
+    "exteriorColor": "",
+    "aprTerm": 60,
+    "capCost": 55755,
+    "zeroDownLeaseTotalDueAtSigningInclRebates": 0,
+    "financeTerm": 60,
+    "aprRate": 1.49,
+    "totalPayments": 0,
+    "DASIncludesAcqusitionFee": false,
+    "savingsOffMSRPDescription": "Off MSRP",
+    "leaseDisclosure": "36 monthly payments of $0.00 excluding tax. Total due at lease signing, $0.00. Cap cost, $55,755.00, which includes first month's payment and $895.00 acquisition fee. Audi Credit $750.00. No security deposit required. Based on 7,500 miles per year, excess miles charged at $0.15 per mile. Lease end termination fee, $495.",
+    "purchaseRebate1Name": "Audi Credit",
+    "imageUrl": "https://alexia-assets-prd.constellationagency.com/jellybeans/2021_Audi_SQ5_Premium TFSI.png",
+    "conditionalRebate": [
+      ""
+    ],
+    "conditionalRebateDisclosure": [
+      ""
+    ],
+    "conditionalRebateName": [
+      ""
+    ],
+    "leaseRebate": [
+      ""
+    ],
+    "leaseRebateDisclosure": [
+      ""
+    ],
+    "leaseRebateName": [
+      ""
+    ],
+    "purchaseRebate": [
+      "750.00"
+    ],
+    "purchaseRebateDisclosure": [
+      "Must take delivery of new Audi by 2021-03-01."
+    ],
+    "purchaseRebateName": [
+      "Audi Credit"
+    ],
+    "zeroDownLeaseRebate": [
+      "750.00"
+    ],
+    "zeroDownLeaseRebateName": [
+      "Audi Credit"
+    ],
+    "zeroDownLeaseRebateDisclosure": [
+      "Program eligibility based on credit approval. Not all customers will qualify. Offer requires financing with Audi Financial Services."
+    ],
+    "percentOffMSRP": "5%",
+    "dealerName": "Audi Downtown LA",
+    "finalPriceName": "DTLA Price",
+    "leaseRebate1": "",
+    "leaseRebate1Name": "",
+    "finalDisclosure": "SUV 2021 Audi SQ5 Premium. MSRP $58,090. LEASE: 36 monthly lease payments of $427, plus tax. Amount due at start, $5,809. plus first month's payment and $895 acquisition fee. $0 Security Deposit. Based on 7,500 miles per year, excess miles charged at $0.25 cents per mile. Lease end termination fee, $495. On approved credit. ALL OFFERS: Plus government fees and taxes, any finance charges, $85 dealer document processing charge, any electronic filing charge and any emission testing charge. Offer expires 03/01/2021."
+  },
+  {
+    "selectedOffers": "Finance",
+    "accountingCost": "",
+    "advertisedPrice": 6500,
+    "zeroDownLeaseTotalPayments": "",
+    "financePayment": 95.7,
+    "modelId": 20112313,
+    "year": 2011,
+    "leaseVehicleSalesPrice": "",
+    "dealerPrice": 6500,
+    "financeDisclosure": "$2,000 down payment. 60 monthly payments of $21.20 per $1000 financed at 9.9% APR. Lease end termination fee, $495.",
+    "zeroDownLeaseVehicleSalesPrice": "",
+    "securityDeposit": "",
+    "zeroDownLeaseMonthlyPayment": "",
+    "zeroDownLeaseAcquisitionFee": "",
+    "transmission": "Automatic",
+    "trim": "LS",
+    "acquisitionFee": "",
+    "monthlyPayment": "",
+    "modelCode": "1PL69",
+    "financeMinFICO": 850,
+    "capCostIncludesFirstMonthPayment": "",
+    "model": "Cruze",
+    "vin": "1G1PC5SH6B7294738",
+    "totalLeaseCharge": "",
+    "zeroDownLeaseTerminationFee": "",
+    "invoicePrice": 4867,
+    "totalDueAtSigning": "",
+    "vehicleType": "Sedan",
+    "capCostReduction": "",
+    "mileage": 85720,
+    "minFICO": "",
+    "zeroDownLeaseMilesPerYear": "",
+    "DASIncludesFirstMonthPayment": "",
+    "zeroDownLeaseTotalLeaseCharge": "",
+    "suggestedDealerContribution": "",
+    "vehicleCondition": "Used",
+    "zeroDownLeaseMinFICO": "",
+    "cylinders": 4,
+    "capCostIncludesAcqusitionFee": "",
+    "savingsOffMSRPTitle": "Save",
+    "aprLender": "",
+    "terminationFee": "",
+    "purchaseRebate1Disclosure": "",
+    "aprMinFICO": 850,
+    "zeroDownLeaseResidualValue": "",
+    "aprPayment": 21.2,
+    "zeroDownLeaseCapCost": "",
+    "stockNumber": "ZA0055639SL-1",
+    "zeroDownLeaseSecurityDeposit": "",
+    "dateInStock": 1602806400000,
+    "dealerCode": "CALOSAUD",
+    "zeroDownLeaseTotalDueAtSigning": "",
+    "finalPrice": 6500,
+    "zeroDownLeaseNumberOfPayments": "",
+    "netAdjustedCapitalizedCost": "",
+    "savingsOffMSRP": 652,
+    "zeroDownLeaseCentsPerMile": "",
+    "driveTrain": "Front Wheel Drive",
+    "residualValue": "",
+    "purchaseRebate1": "",
+    "aprAmntFinanced": 1000,
+    "dealerDiscount": 652,
+    "zeroDownLeaseNetAdjustedCapitalizedCost": "",
+    "financeRate": 9.9,
+    "totalDueAtSigningInclRebates": "",
+    "milesPerYear": "",
+    "msrp": "",
+    "zeroDownLeaseCapCostReduction": "",
+    "centsPerMile": "",
+    "amntFinanced": 4500,
+    "make": "Chevrolet",
+    "expirationDate": "",
+    "numberOfPayments": "",
+    "financeDownPayment": 2000,
+    "zeroDownDisclosure": "",
+    "exteriorColor": "Black Granite Metallic",
+    "aprTerm": 60,
+    "capCost": "",
+    "zeroDownLeaseTotalDueAtSigningInclRebates": "",
+    "financeTerm": 60,
+    "aprRate": 9.9,
+    "totalPayments": "",
+    "DASIncludesAcqusitionFee": "",
+    "savingsOffMSRPDescription": "Off MSRP",
+    "leaseDisclosure": "",
+    "purchaseRebate1Name": "",
+    "imageUrl": "https://alexia-assets-prd.constellationagency.com/jellybeans/jellybean_placeholder.png",
+    "conditionalRebate": [
+      ""
+    ],
+    "conditionalRebateDisclosure": [
+      ""
+    ],
+    "conditionalRebateName": [
+      ""
+    ],
+    "leaseRebate": [
+      ""
+    ],
+    "leaseRebateDisclosure": [
+      ""
+    ],
+    "leaseRebateName": [
+      ""
+    ],
+    "purchaseRebate": [
+      ""
+    ],
+    "purchaseRebateDisclosure": [
+      ""
+    ],
+    "purchaseRebateName": [
+      ""
+    ],
+    "zeroDownLeaseRebate": [
+      ""
+    ],
+    "zeroDownLeaseRebateName": [
+      ""
+    ],
+    "zeroDownLeaseRebateDisclosure": [
+      ""
+    ],
+    "percentOffMSRP": "0%",
+    "dealerName": "Audi Downtown LA",
+    "finalPriceName": "DTLA Price",
+    "leaseRebate1": "",
+    "leaseRebate1Name": "",
+    "finalDisclosure": "Sedan 2011 Chevrolet Cruze LS. Black Granite Metallic. ENGINE, ECOTEC 1.8L VARIABLE VALVE TIMING DOHC 4-CYLINDER SEQUENTIAL MFI (estimated 136 hp [101.4 kW] @ 6300 rpm, 123 lb-ft of torque [166.1 N-m] @ 3800 rpm)|TRANSMISSION, 6-SPEED AUTOMATIC, ELECTRONICALLY CONTROLLED WITH OVERDRIVE|AUDIO SYSTEM, AM/FM STEREO WITH CD PLAYER AND MP3 PLAYBACK CAPABILITY, GRAPHICAL DISPLAY. FINANCE: Down payment, $2,000. 9.9% APR. Amount financed, $4,500. Min FICO 850. On approved credit. PURCHASE: Dealer discount, $652. Dealer price, $6,500. DTLA Price, $6,500. ALL OFFERS: Plus government fees and taxes, any finance charges, $85 dealer document processing charge, any electronic filing charge and any emission testing charge. Offer expires ."
+  }
+]
